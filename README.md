@@ -3,7 +3,7 @@
 
 
 <div align="center">
-  <img src="./assets/frieren_magic_banner.gif" width="100%" alt="GitHub Profile Banner"/>
+  <img src="./assets/다운로드.gif" width="100%" alt="GitHub Profile Banner"/>
 </div>
 
 
