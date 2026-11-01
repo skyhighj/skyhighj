@@ -2,8 +2,8 @@
 ## Hi there 👋
 
 
-<div align="center">
-  <img src="./assets/다운로드.gif" width="100%" alt="GitHub Profile Banner"/>
+<div align="left">
+  <img src="./assets/다운로드.gif" width="20%" alt="GitHub Profile Banner"/>
 </div>
 
 
