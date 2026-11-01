@@ -1,6 +1,14 @@
 
 ## Hi there 👋
 
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=rect&color=0D1117&height=250&section=header&text=Welcome%20to-nl-My%20GitHub!&fontSize=55&fontColor=C95DBB&stroke=FFE599&strokeWidth=3&animation=twinkling&fontAlignY=35,65&fontFamily=Press%20Start%202P"/>
+</div>
+
+
+
+
 <a href="버튼을 눌렀을 때 이동할 링크" target="_blank"><img src="https://img.shields.io/badge/뱃지레이블-배경색?style=뱃지모양&logo=로고&logoColor=로고색상"/></a>
 
 
